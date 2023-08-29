@@ -103,8 +103,7 @@ body {
   background-color: bisque;
 }
 
-.sections:nth-child(2),
-.sections:last-child {
+.sections:nth-child(2) {
   background-color: beige;
 }
 
